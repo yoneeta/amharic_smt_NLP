@@ -1,0 +1,49 @@
+[
+  {
+    "ar": "ከፖናማ ውድቀት በኋላ አንዳንድ መጽናኛዎችን ይፈልጋሉ።",
+    "tr": "After the Panama fiasco, they will need some reassurance."
+  },
+  {
+    "ar": "ይህን ጉዳይ ከማጓተቱ ይልቅ በፍጥነት ማድረጉ መጥፎ ላይሆን ይችላል።",
+    "tr": "It might not be a bad idea to do that sooner, rather than later."
+  },
+  {
+    "ar": "በእርግጥ የኮሎምቢያ ፕሬስ ይህን በጣም ይፈልጋል።",
+    "tr": "Certainly, the Colombian press is much in need of that."
+  },
+   {
+    "ar": "መጥፎ ባህሪ ያላቸው ህጻናት ተጨማሪ የስነምግባር ስልጠና ተሰጣቸው።",
+    "tr": "Children with bad behavior were given additional ethics training."
+  },
+   {
+    "ar": "ህጻናት ተመጣጣኝ ምግብ መመገብ እድገታቸውን ያፋጥናል።",
+    "tr": "Eating nutritious food to Children accelerates their development."
+  },
+   {
+    "ar": "ህጻናት በቂ የመጫወቻ ቦታ ሊኖራቸው ይገባል።",
+    "tr": "Children should have adequate play areas."
+  }
+  ,{"ar":"አበበ የመጫወቻ ጊዜ የለውም",
+	  "tr": "Abebe has no time to play"}
+	  ,
+	
+	{"ar":"ከበደ ፍርፍር በላ",
+	  "tr":"Kebede eat firfir"},
+	  {"ar":"ሰብስቤ ዳቦ በላ",
+	  "tr":"sebsebe eat bread"},
+	  {"ar":"በሶ ለሰውነት ይጠቅማል",
+		  "tr":"Beso good for human body"},
+		  {"ar":"በሶ ከገብስ ይዘጋጃል",
+		  "tr":"Beso prepared from barley"},
+		  {"ar":"አበበች ኳስ ተጫወተች",
+		  "tr":"Abebech play football"},
+		  {"ar":"በቀለች ካርታ ተጫወተች",
+		  "tr":"Bekelech play card"}
+		  ,
+		  {"ar":"እሷ ኳስ ተጫወተች",
+		  "tr":"she play football"}
+		  ,
+		  {"ar":"እሱ በሶ በላ",
+		  "tr":"he eat Beso"}
+  
+]
